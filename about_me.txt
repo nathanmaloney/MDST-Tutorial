@@ -1,3 +1,4 @@
 Introduce yourself in this file!
 
-Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+Hello!
+My Name is Nathan Maloney, and I am from Irvine, California. I am a Sophomore here at Michigan studying Computer Science and Data Science in LSA. One fun fact about me is that I have 2 dogs!
